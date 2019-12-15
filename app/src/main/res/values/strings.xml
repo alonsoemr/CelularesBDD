@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Celulares</string>
+    <string name="ver_lista">Ver Lista</string>
+    <!--  <string name="title_activity_samsung">SamsungActivity</string>
+        <string name="title_activity_samsungs">SamsungsActivity</string>
+        <string name="title_activity_celulares">CelularesActivity</string>
+        <string name="title_activity_celular">Celular</string> -->
+    </resources>
